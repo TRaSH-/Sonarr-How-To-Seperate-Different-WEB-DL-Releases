@@ -53,7 +53,7 @@ The reason why  i've added "RARBG" as "Must not contain" is because I dislike re
 - Must not contain: WEBRip, -focus, x264, AMZN, -CTL, -PLAYREADY, Amazon.WEB DL, Amazon, -QoQ, -TBS, -STRiFE 
 - Tags: web-dl 
 
-![WEB-DL](http://my.jetscreenshot.com/13737/20180325-tsfm-12kb.png)
+![WEB-DL](http://my.jetscreenshot.com/13737/20180920-m7bx-24kb.png)
 
 #### NOTE:
 
